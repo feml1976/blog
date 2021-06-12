@@ -1,4 +1,9 @@
 # README
+instruccion para copnfigurar clave SSH => feml
+sudo snap install gh
+gh ssh-key add /home/.ssh/id_rsa.pub
+gh auth login
+cat /home/fmontoya/.ssh/id_rsa.pub
 
 Primer cambio => Secrea un controlador pages y una vista home,
 
